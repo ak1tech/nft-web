@@ -1,24 +1,25 @@
 {
   "files": {
     "main.css": "/static/css/main.c9ec062f.css",
-    "main.js": "/static/js/main.ce3d0da2.js",
+    "main.js": "/static/js/main.faf65f75.js",
     "static/js/787.a85c6604.chunk.js": "/static/js/787.a85c6604.chunk.js",
     "static/media/banner-bg.png": "/static/media/banner-bg.1959293c9289d5f1d11f.png",
     "static/media/web3.gif": "/static/media/web3.07e9f01da2b11dba2cf9.gif",
     "static/media/color-sharp.png": "/static/media/color-sharp.fd67d6c821ac56e705ec.png",
-    "static/media/monday.png": "/static/media/monday.eb70b594433aeeb6bafd.png",
-    "static/media/ufo x01.png": "/static/media/ufo x01.84c9f62eadf8d439ad4a.png",
     "static/media/color-sharp2.png": "/static/media/color-sharp2.73882ae60b4ea2cefcfc.png",
     "static/media/3d.png": "/static/media/3d.14bfa50269f6285c2fce.png",
     "static/media/pix.png": "/static/media/pix.00bd2e596b1ab6aa0063.png",
+    "static/media/monday.png": "/static/media/monday.fffaa30fd507cb38a717.png",
     "static/media/footer-bg.png": "/static/media/footer-bg.f7f3e9f4403ade473263.png",
     "static/media/header-img.svg": "/static/media/header-img.4b17b9081f9c449038fd1401859d6ac5.svg",
+    "static/media/ufo x01.png": "/static/media/ufo x01.1bbda68ce895eced823a.png",
     "static/media/CentraNo2-Bold.ttf": "/static/media/CentraNo2-Bold.2faff7f7d3fc92a2fcd9.ttf",
     "static/media/CentraNo2-Medium.ttf": "/static/media/CentraNo2-Medium.f94be5b326d78bb32b95.ttf",
     "static/media/CentraNo2-Book.ttf": "/static/media/CentraNo2-Book.2b143fa4b734a3584043.ttf",
     "static/media/unknownbot.png": "/static/media/unknownbot.a92dbefae4d3bf37fa66.png",
-    "static/media/contact-img.svg": "/static/media/contact-img.e23ca3443fa022fed14f0397942a3ee6.svg",
+    "static/media/contact-img.svg": "/static/media/contact-img.dc574abcf5ea06291ac02e0ba4579d53.svg",
     "static/media/unknown.png": "/static/media/unknown.74bd453495ca72479b44.png",
+    "static/media/sold.png": "/static/media/sold.5482a81ac0e6b3b6cfb6.png",
     "static/media/revicons.eot": "/static/media/revicons.a77de540a38981833f9e.eot",
     "static/media/revicons.ttf": "/static/media/revicons.57fd05d4ae650374c8de.ttf",
     "static/media/meter2.svg": "/static/media/meter2.f5dc27bee9dbc079a77cb8d74ef70985.svg",
@@ -27,11 +28,11 @@
     "static/media/nav-icon3.svg": "/static/media/nav-icon3.42b0acda665cbda24eba82dde33738a1.svg",
     "index.html": "/index.html",
     "main.c9ec062f.css.map": "/static/css/main.c9ec062f.css.map",
-    "main.ce3d0da2.js.map": "/static/js/main.ce3d0da2.js.map",
+    "main.faf65f75.js.map": "/static/js/main.faf65f75.js.map",
     "787.a85c6604.chunk.js.map": "/static/js/787.a85c6604.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c9ec062f.css",
-    "static/js/main.ce3d0da2.js"
+    "static/js/main.faf65f75.js"
   ]
 }
