@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/static/css/main.8fea16f9.chunk.css",
-    "main.js": "/static/js/main.839c6b0f.chunk.js",
-    "main.js.map": "/static/js/main.839c6b0f.chunk.js.map",
+    "main.js": "/static/js/main.000860e3.chunk.js",
+    "main.js.map": "/static/js/main.000860e3.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.6073bbe4.js",
     "runtime-main.js.map": "/static/js/runtime-main.6073bbe4.js.map",
     "static/css/2.d9c320b9.chunk.css": "/static/css/2.d9c320b9.chunk.css",
-    "static/js/2.96887fcb.chunk.js": "/static/js/2.96887fcb.chunk.js",
-    "static/js/2.96887fcb.chunk.js.map": "/static/js/2.96887fcb.chunk.js.map",
+    "static/js/2.0881f4d9.chunk.js": "/static/js/2.0881f4d9.chunk.js",
+    "static/js/2.0881f4d9.chunk.js.map": "/static/js/2.0881f4d9.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.215325a324b4ec67c008af900823fb8d.js": "/precache-manifest.215325a324b4ec67c008af900823fb8d.js",
+    "precache-manifest.7ff4d036c75bf63fef714749e5460c23.js": "/precache-manifest.7ff4d036c75bf63fef714749e5460c23.js",
     "service-worker.js": "/service-worker.js",
     "static/css/2.d9c320b9.chunk.css.map": "/static/css/2.d9c320b9.chunk.css.map",
     "static/css/main.8fea16f9.chunk.css.map": "/static/css/main.8fea16f9.chunk.css.map",
-    "static/js/2.96887fcb.chunk.js.LICENSE.txt": "/static/js/2.96887fcb.chunk.js.LICENSE.txt",
+    "static/js/2.0881f4d9.chunk.js.LICENSE.txt": "/static/js/2.0881f4d9.chunk.js.LICENSE.txt",
     "static/media/01.png": "/static/media/01.b9707264.png",
     "static/media/3d.png": "/static/media/3d.949ea839.png",
     "static/media/App.css": "/static/media/footer-bg.ca29a4d4.png",
@@ -25,6 +25,7 @@
     "static/media/nav-icon1.svg": "/static/media/nav-icon1.05fc57db.svg",
     "static/media/nav-icon2.svg": "/static/media/nav-icon2.147f41c9.svg",
     "static/media/nav-icon3.svg": "/static/media/nav-icon3.916288ac.svg",
+    "static/media/nav-icon4.svg": "/static/media/nav-icon4.4d8a171d.svg",
     "static/media/pix.png": "/static/media/pix.12b9a079.png",
     "static/media/pro.png": "/static/media/pro.30c079fe.png",
     "static/media/styles.css": "/static/media/revicons.2feb69cc.eot",
@@ -35,8 +36,8 @@
   "entrypoints": [
     "static/js/runtime-main.6073bbe4.js",
     "static/css/2.d9c320b9.chunk.css",
-    "static/js/2.96887fcb.chunk.js",
+    "static/js/2.0881f4d9.chunk.js",
     "static/css/main.8fea16f9.chunk.css",
-    "static/js/main.839c6b0f.chunk.js"
+    "static/js/main.000860e3.chunk.js"
   ]
 }
