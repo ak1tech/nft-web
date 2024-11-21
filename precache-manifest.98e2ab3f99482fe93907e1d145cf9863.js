@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "ce06ebdb0e7bbddf87f9f170947efc2e",
+    "revision": "4d894ab5f4582e172da8114166335228",
     "url": "/index.html"
   },
   {
-    "revision": "2f078677966d4a33305d",
-    "url": "/static/css/2.d9c320b9.chunk.css"
+    "revision": "51f3795cb28ef163c8ad",
+    "url": "/static/css/2.ec3b32a7.chunk.css"
   },
   {
-    "revision": "b6a38b6868056295d8b8",
+    "revision": "cd97e055c146fa39a01d",
     "url": "/static/css/main.76f8fe58.chunk.css"
   },
   {
-    "revision": "2f078677966d4a33305d",
-    "url": "/static/js/2.9f3169a8.chunk.js"
+    "revision": "51f3795cb28ef163c8ad",
+    "url": "/static/js/2.9d8b0f66.chunk.js"
   },
   {
     "revision": "af9642504d317bdbd284acbab91d7c24",
-    "url": "/static/js/2.9f3169a8.chunk.js.LICENSE.txt"
+    "url": "/static/js/2.9d8b0f66.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "b6a38b6868056295d8b8",
-    "url": "/static/js/main.1add3b32.chunk.js"
+    "revision": "cd97e055c146fa39a01d",
+    "url": "/static/js/main.a80de051.chunk.js"
   },
   {
     "revision": "05af755a5ff421426cdb",
@@ -42,6 +42,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "63911e8535278ced52b8a37e819f6f5d",
     "url": "/static/media/CentraNo2-Medium.63911e85.ttf"
+  },
+  {
+    "revision": "3c896852b92fecc7a3f9a92b94504639",
+    "url": "/static/media/apple.3c896852.png"
   },
   {
     "revision": "cd51547d53fa65111f5feafce240e45f",
@@ -84,12 +88,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/nav-icon1.05fc57db.svg"
   },
   {
-    "revision": "147f41c95f6ad7574168c3d3a462c455",
-    "url": "/static/media/nav-icon2.147f41c9.svg"
+    "revision": "15231d531b0b16dc29d4ab197e78fbfc",
+    "url": "/static/media/nav-icon2.15231d53.svg"
   },
   {
-    "revision": "916288acadd310f72324c2884f04497d",
-    "url": "/static/media/nav-icon3.916288ac.svg"
+    "revision": "147f41c95f6ad7574168c3d3a462c455",
+    "url": "/static/media/nav-icon3.147f41c9.svg"
   },
   {
     "revision": "4d8a171df43490b867d2df56f55495a7",
@@ -106,10 +110,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "2feb69ccb596730c72920c6ba3e37ef8",
     "url": "/static/media/revicons.2feb69cc.eot"
-  },
-  {
-    "revision": "2affb0076c8929aa82ed79c27cda6883",
-    "url": "/static/media/twitter-x.2affb007.png"
   },
   {
     "revision": "e6896da01e9f2dd985f9be051b177853",
