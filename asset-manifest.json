@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/static/css/main.76f8fe58.chunk.css",
-    "main.js": "/static/js/main.cfa84185.chunk.js",
-    "main.js.map": "/static/js/main.cfa84185.chunk.js.map",
+    "main.js": "/static/js/main.18857383.chunk.js",
+    "main.js.map": "/static/js/main.18857383.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.6073bbe4.js",
     "runtime-main.js.map": "/static/js/runtime-main.6073bbe4.js.map",
     "static/css/2.ec3b32a7.chunk.css": "/static/css/2.ec3b32a7.chunk.css",
-    "static/js/2.9d8b0f66.chunk.js": "/static/js/2.9d8b0f66.chunk.js",
-    "static/js/2.9d8b0f66.chunk.js.map": "/static/js/2.9d8b0f66.chunk.js.map",
+    "static/js/2.65ff2913.chunk.js": "/static/js/2.65ff2913.chunk.js",
+    "static/js/2.65ff2913.chunk.js.map": "/static/js/2.65ff2913.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.b4dde9f22a4daef0c80506014a41395c.js": "/precache-manifest.b4dde9f22a4daef0c80506014a41395c.js",
+    "precache-manifest.9281c447f973abfc1da8eeb656675c5a.js": "/precache-manifest.9281c447f973abfc1da8eeb656675c5a.js",
     "service-worker.js": "/service-worker.js",
     "static/css/2.ec3b32a7.chunk.css.map": "/static/css/2.ec3b32a7.chunk.css.map",
     "static/css/main.76f8fe58.chunk.css.map": "/static/css/main.76f8fe58.chunk.css.map",
-    "static/js/2.9d8b0f66.chunk.js.LICENSE.txt": "/static/js/2.9d8b0f66.chunk.js.LICENSE.txt",
+    "static/js/2.65ff2913.chunk.js.LICENSE.txt": "/static/js/2.65ff2913.chunk.js.LICENSE.txt",
     "static/media/01.png": "/static/media/01.8419830f.png",
     "static/media/App.css": "/static/media/footer-bg.ca29a4d4.png",
     "static/media/apple.png": "/static/media/apple.3c896852.png",
@@ -29,6 +29,7 @@
     "static/media/nav-icon3.svg": "/static/media/nav-icon3.147f41c9.svg",
     "static/media/nav-icon4.svg": "/static/media/nav-icon4.4d8a171d.svg",
     "static/media/styles.css": "/static/media/revicons.2feb69cc.eot",
+    "static/media/twitter-x.png": "/static/media/twitter-x.2affb007.png",
     "static/media/unknownbot.png": "/static/media/unknownbot.e6896da0.png",
     "static/media/v&r.png": "/static/media/v&r.b83bca19.png",
     "static/media/vp.png": "/static/media/vp.dc35f358.png",
@@ -38,8 +39,8 @@
   "entrypoints": [
     "static/js/runtime-main.6073bbe4.js",
     "static/css/2.ec3b32a7.chunk.css",
-    "static/js/2.9d8b0f66.chunk.js",
+    "static/js/2.65ff2913.chunk.js",
     "static/css/main.76f8fe58.chunk.css",
-    "static/js/main.cfa84185.chunk.js"
+    "static/js/main.18857383.chunk.js"
   ]
 }
