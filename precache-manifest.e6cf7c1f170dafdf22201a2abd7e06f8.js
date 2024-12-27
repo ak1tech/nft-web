@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "3ece1a91740b26e3a1f61c6b7d48f801",
+    "revision": "8567d13d63e23ee2d7b69daed2a4e7cc",
     "url": "/index.html"
   },
   {
-    "revision": "83f875edeb16cf58892c",
+    "revision": "a80c728b7770d71b542e",
     "url": "/static/css/2.ec3b32a7.chunk.css"
   },
   {
-    "revision": "9c4cbccad41af4e7d10e",
-    "url": "/static/css/main.c207bfc6.chunk.css"
+    "revision": "acfbe84083ef3e52cb9f",
+    "url": "/static/css/main.65f1fded.chunk.css"
   },
   {
-    "revision": "83f875edeb16cf58892c",
-    "url": "/static/js/2.65ff2913.chunk.js"
+    "revision": "a80c728b7770d71b542e",
+    "url": "/static/js/2.594ed866.chunk.js"
   },
   {
-    "revision": "af9642504d317bdbd284acbab91d7c24",
-    "url": "/static/js/2.65ff2913.chunk.js.LICENSE.txt"
+    "revision": "c0978f316b1bdeca5d37eb6e51c9f1cf",
+    "url": "/static/js/2.594ed866.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "9c4cbccad41af4e7d10e",
-    "url": "/static/js/main.e527e553.chunk.js"
+    "revision": "acfbe84083ef3e52cb9f",
+    "url": "/static/js/main.667253ac.chunk.js"
   },
   {
     "revision": "05af755a5ff421426cdb",
@@ -42,10 +42,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "63911e8535278ced52b8a37e819f6f5d",
     "url": "/static/media/CentraNo2-Medium.63911e85.ttf"
-  },
-  {
-    "revision": "3c896852b92fecc7a3f9a92b94504639",
-    "url": "/static/media/apple.3c896852.png"
   },
   {
     "revision": "c3a097a00d1baef28b3411095bf45c5b",
@@ -86,10 +82,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "05fc57db8fb0a6427a939c4b6e7f9d60",
     "url": "/static/media/nav-icon1.05fc57db.svg"
-  },
-  {
-    "revision": "15231d531b0b16dc29d4ab197e78fbfc",
-    "url": "/static/media/nav-icon2.15231d53.svg"
   },
   {
     "revision": "147f41c95f6ad7574168c3d3a462c455",
