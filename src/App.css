@@ -278,8 +278,8 @@ nav.navbar .navbar-toggler[aria-expanded="true"] .navbar-toggler-icon {
   align-items: center;
   gap: 10px;
   cursor: pointer;
-  margin-bottom: 20px; 
-  margin-top: 30px;/* Adds space between video trigger and button */
+  margin-bottom: 10px; 
+  margin-top: 20px;/* Adds space between video trigger and button */
 }
 
 .thumbnail-image {
@@ -293,7 +293,7 @@ nav.navbar .navbar-toggler[aria-expanded="true"] .navbar-toggler-icon {
   color: #ffd700;
   font-style: TaHoma;
   letter-spacing: 0.8px;
-  font-size: 20px;
+  font-size: 25px;
   line-height: 1em; /* Assuming your text is white like the rest of your banner */
   text-decoration: underline;
   flex-shrink: 0;
@@ -836,10 +836,14 @@ nav.navbar .navbar-toggler[aria-expanded="true"] .navbar-toggler-icon {
     line-height: 1em;
     width: 130%;
   }
-  /* .thumbnail-image {
-    left: 1115%;
-    margin-top: 200px;
-  } */
+  .video-trigger {
+    display: flex;
+    flex-direction: row;
+  }
+  .thumbnail-image {
+    right: 911415px;
+    top: 200px;
+  }
   .services p {
     color: #00ccff;
     font-size: 30px;
