@@ -836,14 +836,14 @@ nav.navbar .navbar-toggler[aria-expanded="true"] .navbar-toggler-icon {
     line-height: 1em;
     width: 130%;
   }
-  .video-trigger {
+  /* .video-trigger {
     display: flex;
     flex-direction: row;
   }
   .thumbnail-image {
     right: 911415px;
     top: 200px;
-  }
+  } */
   .services p {
     color: #00ccff;
     font-size: 30px;

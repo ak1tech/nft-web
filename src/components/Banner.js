@@ -73,7 +73,7 @@ export const Banner = () => {
                   <div className="video-trigger" onClick={handleVideoClick}>
                       <span className="video-text">𝘾𝙡𝙞𝙘𝙠 𝙩𝙤 𝙬𝙖𝙩𝙘𝙝 𝙖 𝙫𝙞𝙙𝙚𝙤</span>
                       <img 
-                          src="https://res.cloudinary.com/dxcu4dwop/image/upload/v1736497051/1736458144470_tpbebs.png" 
+                          src="https://i.ibb.co/4mWtWw6/1736458144470.png" 
                           alt="Video thumbnail" 
                           className="thumbnail-image"
                       />
