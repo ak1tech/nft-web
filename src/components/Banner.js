@@ -67,7 +67,7 @@ export const Banner = () => {
                       </span>
                   </h1>
                   
-                  <p>𝗟𝗲𝘁'𝘀 𝘀𝗼𝗹𝘃𝗲 𝘆𝗼𝘂𝗿 𝗯𝗿𝗮𝗻𝗱𝗶𝗻𝗴 𝗽𝗿𝗼𝗯𝗹𝗲𝗺𝘀 𝘁𝗼𝗴𝗲𝘁𝗵𝗲𝗿<span role="img" aria-label="alien monster emoji">✨</span></p>
+                  <p>𝗚𝗲𝘁 𝗲𝘅𝗮𝗰𝘁𝗹𝘆 𝘄𝗵𝗮𝘁 𝘄𝗼𝗿𝗸𝘀 𝗳𝗼𝗿 𝘆𝗼𝘂𝗿 𝗯𝘂𝘀𝗶𝗻𝗲𝘀𝘀<span role="img" aria-label="alien monster emoji">✨</span></p>
                   
                   {/* Video trigger */}
                   <div className="video-trigger" onClick={handleVideoClick}>
